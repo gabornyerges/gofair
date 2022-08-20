@@ -4,8 +4,8 @@ import (
 	"flag"
 	"log"
 
-	"github.com/belmegatron/gofair"
-	"github.com/belmegatron/gofair/config"
+	"github.com/gabornyerges/gofair"
+	"github.com/gabornyerges/gofair/config"
 )
 
 func main() {
